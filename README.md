@@ -8,6 +8,7 @@
   <a href="#Utilização">Utilização</a>
 </p>
 
+![Cover](./.github/upload-ai.png)
 
 ## 📂 Projeto
 
