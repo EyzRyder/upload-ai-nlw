@@ -16,7 +16,7 @@ Aplicação que possibilita realizar upload de videos e por meio de IA, criar au
 ### [Front-end](https://github.com/EyzRyder/upload-ai-nlw/tree/main/web)
 No front-end é um form onde videos são upados, selecione o prompt e masi coisas adicionais, nisso é mandado um requisição para o api, sendo devolvido algo referento o video do que foi pedido no promt. 
 
-### [Back-end](https://github.com/EyzRyder/upload-ai-nlw/tree/main/api)
+### [Back-end](https://github.com/EyzRyder/upload-ai-nlw/blob/main/api/README.md)
 No Back-end é um server que baixa os videos, transforma o video em audio e é intepretado pelo ia gerando um resposta de a cordo com o prompt. 
 
 ## 💻 Tecnologias
